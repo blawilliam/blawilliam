@@ -21,3 +21,8 @@ You can click the Preview link to take a look at your changes.
 - Obtain CKA and CKAD certs
 - Go Live with CloudForce site
 ```
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
